@@ -77,4 +77,4 @@ python main.py
 
 ## Autor
 
-Trabajo realizado para la materia Programación 1 – TUPAD.
+Trabajo realizado para la materia Programación 1 – TUPAD. M26 C1-16 - 1er Cuatr.
