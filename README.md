@@ -79,8 +79,8 @@ python main.py
 Jonatan Nelson Lugo Jaureguy
 
 Trabajo realizado para la materia Programación 1 – TUPAD. M26 C1-16 - 1er Cuatr.
-
-Links
+---
+## Links
 
 Repositorio GitHub: https://github.com/Lugo-N7/TPI_sistema_gestion_paises.git
 
